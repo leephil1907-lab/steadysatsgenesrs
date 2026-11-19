@@ -13,3 +13,7 @@ The dashboard streams live quotes when possible and also polls public snapshots.
 ## Download a trading report
 
 Use **Export → Trading history report** to download a branded PDF or editable Word (`.docx`) file. Export all matching trades or the latest eight matching trades. Reports include a scope, UTC generation time, and simulated trade results; changing market quotes are not included in the report.
+
+## Market view
+
+The market strip covers 20 USDT pairs, with embedded logo artwork from the Binance asset library. Use **Show all 20 markets** to expand it. The `#markets` link opens a market-only view without account figures or generated history.
